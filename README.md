@@ -30,7 +30,7 @@
 #### 4. 
 	每個頁面在離開時，要用 Bundle 保留 EditText 與 RadioButton 的狀態。下一次回來執行時可以還原。
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 身高及 BMI 計算公式如下圖所示：
 
