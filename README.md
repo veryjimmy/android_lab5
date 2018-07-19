@@ -8,8 +8,8 @@
 
 功能如下：
 
-##1. Activity 1 <br />
-	a. 是程式進入的主 Activity 。用來計算估計的身高。
+## 1. Activity 1 <br/>
+	a. 是程式進入的主 Activity 。用來計算估計的身高。 <br/>
 	b. 在程式開始時，判斷 Bundle 的內容是否為 null 。如果不是 null ，就需要將 Bundle 內的值還原到各個變數。
 	c. 有兩個 Button ，一個用來跳轉到 BMI 計算的頁面，一個用來跳轉到說明的頁面。在跳轉到 BMI 計算的頁面時，需要使用 explicit intent 的方式以 startActivity(intent) 傳遞估算身高的參數到 BMI 計算頁面。
 	d. 有四個 TextView ，分別顯示:「 膝長 」、「 年齡 」、「 估算身高 」、計算結果。
